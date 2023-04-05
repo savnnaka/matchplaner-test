@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/matchplaner-test/static/css/main.458756c9.css",
+    "main.js": "/matchplaner-test/static/js/main.604cffe6.js",
+    "static/media/background-image-catcher.jpg": "/matchplaner-test/static/media/background-image-catcher.ca0ed7c4bdfab0a90887.jpg",
+    "static/media/feature_vp.png": "/matchplaner-test/static/media/feature_vp.3a2039a7b925c0145bb0.png",
+    "static/media/feature_tap.jpg": "/matchplaner-test/static/media/feature_tap.40de7b46dbf4319f009c.jpg",
+    "static/media/advantages.jpg": "/matchplaner-test/static/media/advantages.cd024f8e0043d2661eaf.jpg",
+    "static/media/feature_trp2.jpg": "/matchplaner-test/static/media/feature_trp2.c5c7128c117be4d8b962.jpg",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/matchplaner-test/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/feature_mp.jpg": "/matchplaner-test/static/media/feature_mp.61f705bbeffb61d2137b.jpg",
+    "static/media/feature_sp.jpg": "/matchplaner-test/static/media/feature_sp.824f79e1949298082f09.jpg",
+    "static/media/pc.png": "/matchplaner-test/static/media/pc.7e228f82dc138a52fa56.png",
+    "static/media/handy.png": "/matchplaner-test/static/media/handy.5f584c5aeeb4b68d41b9.png",
+    "static/media/tool-taktikplaner.jpg": "/matchplaner-test/static/media/tool-taktikplaner.262530faf5caa65915b9.jpg",
+    "static/media/tool-trainingsplaner-color-without-border.jpg": "/matchplaner-test/static/media/tool-trainingsplaner-color-without-border.7cffb9ef37753a662506.jpg",
+    "static/media/tool-saisonplaner-color-without-border.jpg": "/matchplaner-test/static/media/tool-saisonplaner-color-without-border.e1436a9d247c75cfa242.jpg",
+    "static/media/feature_ep.jpg": "/matchplaner-test/static/media/feature_ep.de6308fb762a78429164.jpg",
+    "static/media/tool-reiseplaner.jpg": "/matchplaner-test/static/media/tool-reiseplaner.e74a4012b801274fc9a4.jpg",
+    "static/media/tool-matchplaner-color-without-border.jpg": "/matchplaner-test/static/media/tool-matchplaner-color-without-border.dee7c60b71a3b298e6ec.jpg",
+    "static/media/tool-taktikplaner-color-without-border.jpg": "/matchplaner-test/static/media/tool-taktikplaner-color-without-border.01688c55532530d494fc.jpg",
+    "static/media/tool-eventplaner.jpg": "/matchplaner-test/static/media/tool-eventplaner.532a02f46eeed9e3d637.jpg",
+    "static/media/tool-reiseplaner-color-without-border.jpg": "/matchplaner-test/static/media/tool-reiseplaner-color-without-border.9839c80b72987c791735.jpg",
+    "static/media/tool-eventplaner-color-without-border.jpg": "/matchplaner-test/static/media/tool-eventplaner-color-without-border.a5604f39205582dbc1e9.jpg",
+    "static/media/handy_empty.png": "/matchplaner-test/static/media/handy_empty.baf0e3063bc684faab30.png",
+    "static/media/mp-logo-round.png": "/matchplaner-test/static/media/mp-logo-round.b1cd439b07d3b40cf057.png",
+    "static/media/FootballMan.png": "/matchplaner-test/static/media/FootballMan.0d931535a40a6228bbeb.png",
+    "static/media/mp-logo.png": "/matchplaner-test/static/media/mp-logo.77372395a0bc54eec046.png",
+    "static/media/exist-logos.jpg": "/matchplaner-test/static/media/exist-logos.97c25ebc50fddf9c3445.jpg",
+    "static/media/agree-icon.svg": "/matchplaner-test/static/media/agree-icon.6dce753c48e5dc4acb88852c3664d479.svg",
+    "static/media/add-match-button.svg": "/matchplaner-test/static/media/add-match-button.e87913836cd3ef99815f.svg",
+    "index.html": "/matchplaner-test/index.html",
+    "static/media/info-icon.svg": "/matchplaner-test/static/media/info-icon.540cd5ddd9f7be078ce0e7774b206eda.svg",
+    "static/media/arrowsquaredown_yellow.svg": "/matchplaner-test/static/media/arrowsquaredown_yellow.f095099cfd0e89195b98ad7fbe8cdc37.svg",
+    "static/media/arrowsquaredown_white.svg": "/matchplaner-test/static/media/arrowsquaredown_white.c8696036c957a58acf34ba3b7d98cc58.svg",
+    "main.458756c9.css.map": "/matchplaner-test/static/css/main.458756c9.css.map",
+    "main.604cffe6.js.map": "/matchplaner-test/static/js/main.604cffe6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.458756c9.css",
+    "static/js/main.604cffe6.js"
+  ]
+}
